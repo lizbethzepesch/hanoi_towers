@@ -1,0 +1,39 @@
+﻿  Board.cpp
+  Build.cpp
+  Disk.cpp
+  Game.cpp
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(20,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(29,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(30,139): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(39,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(76,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(111,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(113,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(165,15): warning C4305: =: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(224,27): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(224,20): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(226,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(236,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(237,55): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(239,55): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(271,17): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(274,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(280,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(281,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(286,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(423,27): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(423,20): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(424,32): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(433,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(434,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(435,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(435,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(442,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(445,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(448,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(454,52): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Liza\source\repos\Hanoi Tower\Hanoi Tower\Game.cpp(401,22): warning C4101: u: неиспользованная локальная переменная
+  Stick.cpp
+  Создание кода...
+  Hanoi Tower.vcxproj -> C:\Users\Liza\source\repos\Hanoi Tower\Debug\Hanoi Tower.exe
